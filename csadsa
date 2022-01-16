@@ -1,0 +1,54 @@
+local function callback(Text)
+ if Text == "Yes" then
+  print ("Answer")
+elseif Text == ("No") then
+ print ("Answer2")
+ end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+ Title = "Keepmore's Cracked Script";
+ Text = "Cracked By ✧卂ㄒİㄥㄥ੫尺ㄒ#9259";
+ Icon = "";
+ Duration = 5;
+  Callback = NotificationBindable;
+})
+local function callback(Text)
+ if Text == "Yes" then
+  print ("Answer")
+elseif Text == ("No") then
+ print ("Answer2")
+ end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+ Title = "Keepmore's Cracked Script";
+ Text = "Cracked By ✧卂ㄒİㄥㄥ੫尺ㄒ#9259";
+ Icon = "";
+ Duration = 5;
+  Callback = NotificationBindable;
+})
+local function callback(Text)
+ if Text == "Yes" then
+  print ("Answer")
+elseif Text == ("No") then
+ print ("Answer2")
+ end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+ Title = "Keepmore's Cracked Script";
+ Text = "Cracked By ✧卂ㄒİㄥㄥ੫尺ㄒ#9259";
+ Icon = "";
+ Duration = 5;
+  Callback = NotificationBindable;
+})
